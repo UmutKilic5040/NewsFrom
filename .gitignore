@@ -1,0 +1,11 @@
+# SQLite Veritabanı
+*.db
+*.sqlite3
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.pyc
+
+# Sanal Ortam (varsa klasör içi)
+.env/
+venv/
